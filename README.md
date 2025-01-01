@@ -6,7 +6,7 @@ This is the repository for the LinkedIn Learning course HTML for Programmers. Th
 It’s not surprising that HTML gets overlooked by modern programmers. Programmers often find that HTML is not much like their familiar programming language turf, but having a better understanding of this foundational web technology can enhance your skills as a web developer and allow you to create more robust web applications. In this course, Emma Bostian highlights the practical skills programmers should know about HTML—the anatomy of an HTML element, the difference between blocks and inline elements, and how to properly nest HTML elements. This course is not meant to be a complete overview of HTML—you won’t learn about every individual HTML tag—but instead a comprehensive overview of semantic HTML, showing you how to architect an accessible web page. Join Emma in this course for some hands-on experience with this essential web development language.
 
 
-### Instructor
+### Instructor.
 
 Emma Bostian 
                             
